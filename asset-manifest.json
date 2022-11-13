@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.3244a0c9.css",
+    "main.js": "/Portfolio/static/js/main.db9c6a11.js",
+    "static/media/avez.svg": "/Portfolio/static/media/avez.7304c840d2d76fa518775b3178763928.svg",
+    "static/media/lionsheart2.png": "/Portfolio/static/media/lionsheart2.f5b9f9e09b104782f096.png",
+    "static/media/blogbook.png": "/Portfolio/static/media/blogbook.d50839e60048ce7ebe65.png",
+    "static/media/covid.png": "/Portfolio/static/media/covid.a73be5ca80623f4ec7d3.png",
+    "static/media/mrpr2.png": "/Portfolio/static/media/mrpr2.14cf78c91c1795362c11.png",
+    "static/media/glassesimoji.png": "/Portfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/Avez_Resume.pdf": "/Portfolio/static/media/Avez_Resume.f3db5264eced51be0a0d.pdf",
+    "static/media/OMG.png": "/Portfolio/static/media/OMG.94b02e8f91cbd4a41c1e.png",
+    "static/media/thinksense.png": "/Portfolio/static/media/thinksense.528907547707142cdb32.png",
+    "static/media/thumbup.png": "/Portfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/Portfolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/Portfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/Portfolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/Portfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/Portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/Portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/Portfolio/index.html",
+    "main.3244a0c9.css.map": "/Portfolio/static/css/main.3244a0c9.css.map",
+    "main.db9c6a11.js.map": "/Portfolio/static/js/main.db9c6a11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3244a0c9.css",
+    "static/js/main.db9c6a11.js"
+  ]
+}
