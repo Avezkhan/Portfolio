@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.3244a0c9.css",
-    "main.js": "/Portfolio/static/js/main.4200c6ac.js",
-    "static/media/avez.svg": "/Portfolio/static/media/avez.7304c840d2d76fa518775b3178763928.svg",
+    "main.css": "/Portfolio/static/css/main.cc44592c.css",
+    "main.js": "/Portfolio/static/js/main.5afc8c6d.js",
+    "static/media/avez.svg": "/Portfolio/static/media/avez.f9dce0fa9878728cc463cab8acf0d46e.svg",
     "static/media/lionsheart2.png": "/Portfolio/static/media/lionsheart2.f5b9f9e09b104782f096.png",
     "static/media/blogbook.png": "/Portfolio/static/media/blogbook.d50839e60048ce7ebe65.png",
     "static/media/covid.png": "/Portfolio/static/media/covid.a73be5ca80623f4ec7d3.png",
@@ -19,11 +19,11 @@
     "static/media/Vector2.png": "/Portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
     "static/media/glasses.png": "/Portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/Portfolio/index.html",
-    "main.3244a0c9.css.map": "/Portfolio/static/css/main.3244a0c9.css.map",
-    "main.4200c6ac.js.map": "/Portfolio/static/js/main.4200c6ac.js.map"
+    "main.cc44592c.css.map": "/Portfolio/static/css/main.cc44592c.css.map",
+    "main.5afc8c6d.js.map": "/Portfolio/static/js/main.5afc8c6d.js.map"
   },
   "entrypoints": [
-    "static/css/main.3244a0c9.css",
-    "static/js/main.4200c6ac.js"
+    "static/css/main.cc44592c.css",
+    "static/js/main.5afc8c6d.js"
   ]
 }
