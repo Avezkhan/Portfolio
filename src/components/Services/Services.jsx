@@ -24,7 +24,7 @@ const Services = () => {
       {/* left side */}
       <div className="awesome">
         {/* dark mode */}
-        <span style={{ color: darkMode ? "white" : "" }}>My Experience</span>
+        <span style={{ color: darkMode ? "white" : "" , paddingTop:'30px'}}>My Experience</span>
         <span>And services</span>
         <span>
           I have Experience In Devloping Websites and Application
@@ -47,7 +47,7 @@ const Services = () => {
           <Card
             emoji={HeartEmoji}
             heading={"Design"}
-            detail={"Figma, Sketch, Photoshop,Adobe xd"}
+            detail={"Figma, Sketch, Photoshop,Adobe xd, Craft, Proto.io, InVision Studio"}
           />
         </motion.div>
         {/* second card */}
